@@ -1,0 +1,33 @@
+#adjust p{
+    padding-left: 250px;
+    padding-right: 250px ;
+}
+
+
+
+ .aboutus{
+    background-image: url("https://i.postimg.cc/fLzXnrSF/group-of-people-all-hands-in-jpg-rendition-750-750.webp");
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    
+
+
+ }
+ #aboutus-txt p {
+    color: white;
+    font-size: 20px;
+
+ }
+ #aboutus-txt h1{
+    color: white;
+
+ }
+
+ #aboutus-txt{
+    padding-top: 500px;
+ }
+
+ #aboutus-txt #under{
+    text-decoration-line: underline ;
+ }
